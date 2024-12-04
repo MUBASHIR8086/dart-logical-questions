@@ -6,6 +6,3 @@ void main(){
     String output=midil+remening;
     print(output);
 }
-
-
-
